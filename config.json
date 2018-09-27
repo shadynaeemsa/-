@@ -1,7 +1,6 @@
-{
-  "token" : "Bot token goes here",
-  "ms" : 1500,
-  "roleToDisco" : ["R>"],
- 
-  "allowedUsers" : ["326099411853901824", "326099411853901824"]
-}
+token=NDk0OTgwNDI3MzQyMTUxNjgx.Do7ahQ.LCVOrz0rYgTGZ-tgWRSfG94n7iA
+owner=460813839051784202
+prefix=1
+game=Type 1play
+stayinchannel=true
+songinstatus=true
